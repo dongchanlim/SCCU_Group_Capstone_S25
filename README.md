@@ -39,7 +39,7 @@ This analysis identifies strategies to increase "growth-ready" customers (those 
 
 ### 3. Geographic Focus
 **High-Priority States:**
-  - priority_states = ['MA', 'KS', 'KY', 'MD']
+  - priority_states:  MA, KS, KY, MD
   -  62% of high-density customers
 
 ![Image20250422214208](https://github.com/user-attachments/assets/22c1f0a4-1919-4319-8af5-1e16ef08b4a1)
