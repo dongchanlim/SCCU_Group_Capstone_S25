@@ -36,3 +36,9 @@ This analysis identifies strategies to increase "growth-ready" customers (those 
 - Sales Rep Outreach : 38% conversion lift with dedicated account managers
 - EDI Integration    : 27% faster order fulfillment for chain stores
 - MY_COKE360         : 41% customer retention in pilot markets
+
+### 3. Geographic Focus
+**High-Priority States:**
+  - priority_states = ['MA', 'KS', 'KY', 'MD'] # 62% of high-density customers
+
+
