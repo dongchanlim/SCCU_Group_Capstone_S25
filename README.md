@@ -33,6 +33,6 @@ This analysis identifies strategies to increase "growth-ready" customers (those 
 ### 2. Optimize Partnership Channels
 **High-Impact Channels:**
 
-- Sales Rep Outreach # 38% conversion lift with dedicated account managers
-- EDI Integration # 27% faster order fulfillment for chain stores
-- MY_COKE360 # 41% customer retention in pilot markets
+- Sales Rep Outreach 38% conversion lift with dedicated account managers
+- EDI Integration 27% faster order fulfillment for chain stores
+- MY_COKE360 41% customer retention in pilot markets
