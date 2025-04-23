@@ -42,3 +42,5 @@ This analysis identifies strategies to increase "growth-ready" customers (those 
   - priority_states = ['MA', 'KS', 'KY', 'MD'] # 62% of high-density customers
 
 
+
+![image](https://github.com/user-attachments/assets/10ee54bf-b5f1-43b8-bf47-214d79f12a75)
