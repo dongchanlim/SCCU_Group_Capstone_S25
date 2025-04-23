@@ -1,5 +1,6 @@
 # SCCU_Group_Capstone_S25
-This is Group 7's repository for SCCU capstone project.
+### This is Group 7's repository for SCCU capstone project.
+- Our Team Members : Richard Lim, Varun Selvam,Nikita Muddapati, Meenakshi H
 # Customer Growth Optimization Analysis for SCCU
 
 ##  Overview
